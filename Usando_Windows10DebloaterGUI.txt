@@ -1,0 +1,7 @@
+Per a fer servir aquest fitxer s'ha de fer els següents passos :
+
+ * Obrim el PowerShell amb "privilegis d'administrador" i executem la següent ordre:
+
+ * Set-ExecutionPolicy Unrestricted
+
+ * Una vegada hem executat l'anterior ordre ja podem executa "Windows10DebloaterGUI"
